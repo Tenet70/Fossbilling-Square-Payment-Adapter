@@ -1,0 +1,13 @@
+{
+  "id": "Square",
+  "type": "payment-gateway",
+  "name": "Square",
+  "description": "Accept credit cards, Apple Pay, and Google Pay on FOSSBilling invoices using Square Checkout.",
+  "icon_url": "icon.svg",
+  "homepage_url": "https://github.com/YOUR-USERNAME/fossbilling-square",
+  "author": "Dave Herbert",
+  "author_url": "https://kmbk.ca",
+  "license": "Apache-2.0",
+  "version": "1.0.0",
+  "min_fossbilling_version": "0.7.0"
+}
